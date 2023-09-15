@@ -1,1 +1,1 @@
-This is my first time ever properly working with Git Version Control!
+In this chapter, aliens were discovered yesterday.
