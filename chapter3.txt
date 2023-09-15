@@ -1,0 +1,1 @@
+Chapter 3 is conceived directly after Chapter 2. No new commits have been made yet. I'm still learning how to use Git!
